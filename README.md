@@ -1,6 +1,7 @@
 ## Introduction
 This repository contains the metameric evolutionary algorithm used in my dissertation *Metameric Representations in Evolutionary Algorithms*. Metameric problems are ones which use a genome that is at least partially segmented into a number of metavariables. For example, a wind farm might be defined as a number of turbines or a coverage network by a number of nodes. Two example solutions to these problems are shown below. 
 
+![](https://raw.githubusercontent.com/ryerkerk/metameric/master/metameric_examples.png)
 
 For more information on metameric representations please see the following. The documentation here frequently refers to certain chapters or sections in the dissertation.
 
