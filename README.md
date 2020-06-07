@@ -7,6 +7,8 @@ For more information on metameric representations please see the following. The 
 
 [Ryerkerk, M., Averill, R., Deb, K., Goodman, E., A survey of evolutionary algorithms using metameric representations, Genet Program Evolvable Mach (2019)](https://rdcu.be/bG8cM)
 
+[Ryerkerk, M., Averill, R., Deb, K., Goodman, E., A novel selection mechanism for evolutionary algorithms with metameric variable-length representations, Soft Comput (2020)](https://rdcu.be/b32hn)
+
 [Ryerkerk, M., Metameric Representations in Evolutionary Algorithms (2018), PhD Dissertation](https://www.researchgate.net/publication/333175589_Metameric_Representations_in_Evolutionary_Algorithms?_sg=tEIMxCJ3EVZ3MVGZSsZA27tUocu-sEBdWfkhra9KcglSZB7ady_RTt59_QJOQyiaAcNw7YCHXJ203w.O4EjU6kG8v_ghl6FYR5CDeMsTKPIMv550NqgNQJCArO4j2R9_1YR1ED3qFo6yB67pOkm_ck4Z9ZPlcU1w_mcbA&_sgd%5Bnc%5D=0&_sgd%5Bncwor%5D=0)
 
 This code was written such that new evolutionary operators or optimization problems can be easily added. Each folder here has an additional `readme.md` file that provides additional information on the functions it contains.
